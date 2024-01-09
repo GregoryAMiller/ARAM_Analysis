@@ -1,0 +1,8 @@
+League of Legends ARAM Game Analysis
+
+
+Uses the League of Legends API to gather data on ARAM games
+
+Data is stored in a postgresql database so that it can be called on later
+
+Data Analysis on General ARAM games, My solo q ARAM games, and my ARAM games with friends

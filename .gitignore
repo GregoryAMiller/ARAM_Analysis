@@ -1,0 +1,11 @@
+*.csv
+api_key.txt
+config.py
+*.gexf
+*.html
+__pycache__/
+myAramAnalytics.ipynb
+aramNetwork.ipynb
+network_testing.ipynb
+test.ipynb
+app_test.py
